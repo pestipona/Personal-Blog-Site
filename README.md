@@ -1,8 +1,7 @@
 # Personal Blog Site
 
-## Germany:
-* [Varusschlacht](https://www.kalkriese-varusschlacht.de/museum-park/park-und-architektur.html)
-* [Archaeological research on the Varus Battle](https://www.kalkriese-varusschlacht.de/die-varusschlacht/forschung.html)
+### [Travel Locations](/ReadMe_Notes/Travel.md)
+### [Shopping List](/ReadMe_Notes/Shopping.md)
 
-## Maps:
-* [Battle of the Teutoburg Forest (Varus Battle)](https://goo.gl/maps/NJ2FdeVtXLcUwEQLA)
+
+
